@@ -1,9 +1,14 @@
 # FlickTok
 
--  creta ereacdt app
+- Create ereacdt app
 - configured tailwind
+- App routing
 - Header
 - Login form
+- Form validation
+- useRef hook
+- Firebase setup
+- Deploying our app to production
 
 # features
 
